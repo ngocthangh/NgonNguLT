@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item >Java</item>
+        <item >C</item>
+        <item >C++</item>
+        <item >C#</item>
+        <item >Python</item>
+        <item >PHP</item>
+        <item >Ruby</item>
+        <item >HTML</item>
+        <item >CSS</item>
+        <item >JavaScript</item>
+    </string-array>
+
+    <string-array name="Detail">
+        <item >Java là một ngôn ngữ bậc cao như C, C++, Perl, SmallTalk,.. cho nên có thể được dùng để tạo ra các ứng dụng để giải quyết các vấn đề về số, xử lý văn bản, tạo ra trò chơi, và nhiều thứ khác. </item>
+        <item >C là một ngôn ngữ mệnh lệnh được phát triển từ đầu thập niên 1970 bởi Dennis Ritchie để dùng trong hệ điều hành UNIX. Từ đó, ngôn ngữ này đã lan rộng ra nhiều hệ điều hành khác và trở thành một những ngôn ngữ phổ dụng nhất.</item>
+        <item >C++ được tạo ra bởi Bjarne Stroustrup - một nhà khoa học máy tính người Đan Mạch tại phòng thí nghiệm ATT Bell vào năm 1979, được ISO công nhận vào năm 1998, lần phê chuẩn tiếp theo vào năm 2003. C++ là một phiên bản mở rộng của ngôn ngữ lập trình C.</item>
+        <item >C# được phát triển bởi Anders Hejlsberg và team của ông trong khi phát triển .Net Framework. C# được thiết kế cho Common Language Infrastructure (CLI), mà gồm Executable Code và Runtime Environment, cho phép chúng ta sử dụng các ngôn ngữ high-level đa dạng trên các nền tảng và cấu trúc máy tính khác nhau. </item>
+        <item >Python là một ngôn ngữ lập trình thông dịch do Guido van Rossum (Hiện tại Guido van Rossum đang làm việc cho Google) tạo ra năm 1990. Python hoàn toàn tạo kiểu động và dùng cơ chế cấp phát bộ nhớ tự động; do vậy nó tương tự như Perl, Ruby, Scheme, Smalltalk, và Tcl. Python được phát triển trong một dự án mã mở, do tổ chức phi lợi nhuận Python Software Foundation quản lý.</item>
+        <item >PHP vay mượn một số cú pháp từ C, Pert, Shell và Java. Nó là một ngôn ngữ lai, lấy các tính năng tốt nhất từ ngôn ngữ khác và tạo ra một ngôn ngữ kịch bản (script language): dễ sử dụng và mạnh mẽ. Mã nguồn (code) php được sử dụng với nhiều mục đích trong đó: đặc biệt thích hợp cho phát triển web và có thể được nhúng vào các mã HTML.</item>
+        <item >Ruby: là một ngôn ngữ lập trình hướng đối tượng được tác giả Yukihỉo Matz Matsumôt bắt đầu phát triển vào năm 1993 và được biết đến rộng rãi vào năm 1995. Ngôn ngữ Ruby có cú pháp đơn giản đươc thừa hưởng từ các ngôn ngữ lâu đời như Lisp, Python, Eiffel hoặc Ada. Ruby có nhiều sự khác biệt so với C/C++. Ruby có cú pháp sáng sủa và những tính năng riêng mà các ngôn ngữ khác không có được cũng như được tích hợp sẵn thư viện API của C.</item>
+        <item >HTML – viết tắt của cụm từ tiếng Anh: Hyper Text Markup Language, nghĩa là “ngôn ngữ đánh dấu siêu văn bản” – là một ngôn ngữ đánh dấu được thiết kế để chỉ rõ một trang Web được hiển thị như thế nào trong một trình duyệt, sử dụng các thẻ và phần tử HTML.</item>
+        <item >CSS là viết tắt của cụm từ “Cascading Style Sheet” , nó là một ngôn ngữ quy định cách trình bày của các thẻ html trên trang web. Là ngôn ngữ đang được sử dụng rất nhiều trong lập trình web, có thể nói CSS ra đời đã tạo nên một cuộc cách mạng.</item>
+        <item >JavaScript là một ngôn ngữ kịch bản (scripting language) được dùng để tạo các script ở máy client (client-side script) và máy server (server-side script). Các script ở máy client được thực thi tại trình duyệt, các script ở máy server được thực hiện trên server.</item>
+    </string-array>
+</resources>

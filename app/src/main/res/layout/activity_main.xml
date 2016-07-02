@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+
+
+    tools:context="com.example.ngocthang.ngonngulaptrinh.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:background="#586eea"
+        android:textColor="#e6e4ea"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:text="Một Số Ngôn Ngữ Lập Trình"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listViewLanguages"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:divider="#868ff4"
+        android:dividerHeight="@dimen/abc_control_corner_material"
+        android:translationZ="@dimen/abc_action_bar_subtitle_bottom_margin_material"
+        android:touchscreenBlocksFocus="false"
+        android:background="#da9d77bb"
+        android:alpha="7.9"
+        android:backgroundTint="#d4c3b6"
+        android:clickable="false" />
+</RelativeLayout>
